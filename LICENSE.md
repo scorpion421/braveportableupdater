@@ -51,6 +51,18 @@ This credit must not be removed, obscured, or hidden in a way that makes it effe
 
 ---
 
+
+## Scope of Protection and Restrictions
+
+For clarity, the terms in this license apply to:
+
+- the project as a whole, and
+- any identifiable **unique part** of the codebase (including files, functions, snippets, logic structures, workflows, or other original expressive elements) copied, adapted, or redistributed separately.
+
+This means the non-commercial and attribution requirements are not limited to full-project redistribution; they also apply to partial reuse of original code portions from this project.
+
+---
+
 ## Full License Text Reference
 
 This license incorporates the terms of:
