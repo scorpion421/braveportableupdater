@@ -4,6 +4,8 @@ A standalone PowerShell updater for **Brave Portable (Portapps-style layout)** w
 
 This project provides a one-click way to check for updates, download official Brave release archives from GitHub, install the selected channel, and launch Brave—without external package managers or additional runtime dependencies.
 
+This updater exists specifically for the Portapps portable ecosystem and is intended to complement the upstream Brave Portable work from Portapps.
+
 ---
 
 ## Highlights
@@ -139,3 +141,13 @@ This updater only pulls release metadata and archives from Brave’s official Gi
 ## License
 
 See [`LICENSE.md`](LICENSE.md) for full terms.
+
+---
+
+## Acknowledgements
+
+Special thanks and full credit to the upstream project:
+
+- **Portapps Brave Portable**: https://github.com/portapps/brave-portable
+
+This project depends on and extends that portable distribution concept. Without that foundation, this updater would not exist.
