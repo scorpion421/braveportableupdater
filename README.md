@@ -40,13 +40,9 @@ Brave Portable via [Portapps](https://github.com/portapps/brave-portable) doesn'
 
 ---
 
-## Screenshots
+## Screenshot
 
-<!-- Replace with actual screenshots after first release -->
-<!-- ![Updater main window](docs/screenshot-main.png) -->
-<!-- ![Update in progress](docs/screenshot-progress.png) -->
-
-*Screenshots will be added after the first public release.*
+<img width="506" height="473" alt="image" src="https://github.com/user-attachments/assets/7108d097-c2f5-4335-9aa0-d5ef9db72e16" />
 
 ---
 
