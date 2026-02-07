@@ -38,7 +38,7 @@ Under the following terms:
 In addition to CC BY-NC-SA 4.0, any redistribution or derivative work must include visible credit containing:
 
 - **Nickname:** `MickyFoley`
-- **Project URL:** `https://github.com/MickyFoley/braveportableupdater`
+- **Project URL:** `https://github.com/scorpion421/braveportableupdater`
 
 Acceptable placement (at least one is required):
 
