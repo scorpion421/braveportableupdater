@@ -52,7 +52,7 @@ Place the script in the root of your Brave Portable directory:
 
 ```
 Brave/
-├── braveportableupdater.ps1    ← the updater
+├── braveupdater.ps1    ← the updater
 ├── braveupdater.json           ← created automatically on first run
 ├── app/
 │   └── 136.1.78.102/           ← version folder (chromium.brave)
@@ -67,13 +67,13 @@ Brave/
 
 ## Quick Start
 
-**Option A** — Right-click `braveportableupdater.ps1` → *Run with PowerShell*.
+**Option A** — Right-click `braveupdater.ps1` → *Run with PowerShell*.
 
 **Option B** — From a PowerShell prompt:
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-.\braveportableupdater.ps1
+.\braveupdater.ps1
 ```
 
 Then in the UI:
